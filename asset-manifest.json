@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/swapi-ui/static/js/main.2e4e5e1f.js",
+    "static/js/243.a11389ab.chunk.js": "/swapi-ui/static/js/243.a11389ab.chunk.js",
+    "static/js/76.b1c11e1b.chunk.js": "/swapi-ui/static/js/76.b1c11e1b.chunk.js",
+    "static/js/156.e4ee06b9.chunk.js": "/swapi-ui/static/js/156.e4ee06b9.chunk.js",
+    "static/js/685.62d7e41e.chunk.js": "/swapi-ui/static/js/685.62d7e41e.chunk.js",
+    "static/js/105.6db446f6.chunk.js": "/swapi-ui/static/js/105.6db446f6.chunk.js",
+    "static/media/starsBg.png": "/swapi-ui/static/media/starsBg.90c266f7d69f1ffb6137.png",
+    "static/media/swLogo.svg": "/swapi-ui/static/media/swLogo.12520472512f2e154098aa79a240eaae.svg",
+    "index.html": "/swapi-ui/index.html",
+    "main.2e4e5e1f.js.map": "/swapi-ui/static/js/main.2e4e5e1f.js.map",
+    "243.a11389ab.chunk.js.map": "/swapi-ui/static/js/243.a11389ab.chunk.js.map",
+    "76.b1c11e1b.chunk.js.map": "/swapi-ui/static/js/76.b1c11e1b.chunk.js.map",
+    "156.e4ee06b9.chunk.js.map": "/swapi-ui/static/js/156.e4ee06b9.chunk.js.map",
+    "685.62d7e41e.chunk.js.map": "/swapi-ui/static/js/685.62d7e41e.chunk.js.map",
+    "105.6db446f6.chunk.js.map": "/swapi-ui/static/js/105.6db446f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2e4e5e1f.js"
+  ]
+}
