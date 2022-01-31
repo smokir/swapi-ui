@@ -1,0 +1,19 @@
+export const RESOURCES_REDUCER_NAME = 'resources';
+
+export const RESOURCE_TYPE = {
+  PEOPLE: 'people',
+  FILMS: 'films',
+  STARSHIPS: 'starships',
+  VEHICLES: 'vehicles',
+  SPECIES: 'species',
+  PLANETS: 'planets',
+} as const;
+
+export const RESOURCE_TYPE_TITLE = {
+  [RESOURCE_TYPE.PEOPLE]: 'CHARACTERS',
+  [RESOURCE_TYPE.FILMS]: 'FILMS',
+  [RESOURCE_TYPE.STARSHIPS]: 'STARSHIPS',
+  [RESOURCE_TYPE.VEHICLES]: 'VEHICLES',
+  [RESOURCE_TYPE.SPECIES]: 'SPECIES',
+  [RESOURCE_TYPE.PLANETS]: 'PLANETS',
+};
